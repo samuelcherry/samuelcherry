@@ -1,6 +1,7 @@
 # Hi there, I'm Sam Cherry
 
-Full-stack developer with a passion for building interactive data dashboards and playful web games. Fullstack Academy graduate with a strong self-taught foundation.
+Full-stack developer with a passion for building interactive data dashboards and playful web games.  
+Fullstack Academy graduate with a strong self-taught foundation.
 
 ---
 
